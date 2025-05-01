@@ -1,9 +1,9 @@
 
 *(Note: Your exact structure might vary slightly depending on your setup.)*
 
-## ☁️ Deployment
+## Deployment
 
-Want to share your awesome interactive portfolio with the world?
+Want to share your interactive portfolio with the world?
 
 1.  **Build the Project:** Create an optimized production build:
     ```bash
@@ -19,7 +19,7 @@ Want to share your awesome interactive portfolio with the world?
 
     Both Vercel and Netlify offer seamless integration with GitHub repositories, often deploying automatically when you push changes.
 
-## 📄 License
+## License
 
 This project is likely under the MIT License (or choose your own). Check the `LICENSE` file if one exists.
 
