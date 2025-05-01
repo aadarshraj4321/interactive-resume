@@ -1,13 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*(Note: Your exact structure might vary slightly depending on your setup.)*
 
-Currently, two official plugins are available:
+## ☁️ Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Want to share your awesome interactive portfolio with the world?
 
-## Expanding the ESLint configuration
+1.  **Build the Project:** Create an optimized production build:
+    ```bash
+    npm run build
+    ```
+    *(Or `yarn build`)*
+    This usually creates a `dist/` or `build/` folder.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# interactive-resume
+2.  **Deploy:** You can easily deploy the contents of the build folder using services like:
+    *   [Vercel](https://vercel.com/)
+    *   [Netlify](https://www.netlify.com/)
+    *   [GitHub Pages](https://pages.github.com/)
+
+    Both Vercel and Netlify offer seamless integration with GitHub repositories, often deploying automatically when you push changes.
+
+## 📄 License
+
+This project is likely under the MIT License (or choose your own). Check the `LICENSE` file if one exists.
+
+---
+
+Have fun customizing and showcasing your skills! If you have any questions, feel free to reach out (add your contact info here if desired).
